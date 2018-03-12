@@ -1,0 +1,2 @@
+beginner_tutorials
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/superrachu/Documentos/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/superrachu/Documentos/catkin_ws/install

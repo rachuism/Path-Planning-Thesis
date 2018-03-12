@@ -1,0 +1,8 @@
+prefix=/home/raul/catkin_ws/install
+
+Name: raul_serrano
+Description: Description of raul_serrano
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/raul/catkin_ws/install/lib 
+Requires: 
